@@ -5,7 +5,7 @@ spring:
    - dev
 
 
-----
+
 spring:
  profiles: dev  #开发环境
   application:
@@ -13,7 +13,7 @@ spring:
 
 
 
-----
+
 spring:
   profiles: test  #测试环境
     application:
